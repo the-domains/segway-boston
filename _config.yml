@@ -1,7 +1,7 @@
 name: Segway Boston
 favicon: null
-layout_spectrum: 0.7810292837675661
-typography_spectrum: 0.8368698221165687
+layout_spectrum: 0.51511
+typography_spectrum: 0.49417
 cta:
   domain: null
   bucket: null
