@@ -2,12 +2,13 @@ name: Segway Boston
 favicon: null
 layout_spectrum: 0.51511
 typography_spectrum: 0.49417
+title: 'Segway Tours '
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-56697635-1
   facebook: null
   twitter: null
 opengraph:
